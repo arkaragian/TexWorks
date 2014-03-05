@@ -1,0 +1,4 @@
+%This should be copied to:
+%C:\Users\username\AppData\Local\MiKTeX\2.9\TeXworks\0.4\completion
+bmat:=\begin{bmatrix}#RET##INS##RET#\end{bmatrix}•
+btik:=\begin{figure}#RET#  \begin{tikzpicture}#RET#   #INS##RET#  \end{tikzpicture}#RET#\end{figure}•
